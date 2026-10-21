@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ijaz"
+  short_description: "Speak less to say more, with clarity and voice"
+  default_prompt: "Use $ijaz to strengthen this writing while preserving its meaning and voice."
